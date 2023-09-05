@@ -2,7 +2,7 @@
 
 Meu nome é Edhelyn
 
-- Estou estudando no alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo este espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
